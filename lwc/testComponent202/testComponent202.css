@@ -1,0 +1,17 @@
+.Test{
+
+    color:red;
+    background-color:white;
+    border:1px solid rgb(209, 194, 194);
+    border-radius:5px;
+    box-shadow: inset 0px 0px 5px 1px #DBA632;
+    text-align: center;
+    padding:50px;
+    height: 5cm;
+    width:8cm;
+   
+    
+}
+.slds-form-element__control .slds-radio{
+    display:inline-block;
+}
